@@ -11,4 +11,6 @@ Decoding:-
 The input is taken from a file “decode.txt” in the same directory.
 And the output is written to another file called “decoded.txt” in the same directory.
 
+NOTE: During decoding, enter the value of 'number of key items' and the 'key value pairs' when prompted from "output.txt"
+
 #-------------------
